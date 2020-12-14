@@ -1,0 +1,1 @@
+ps -edaf | grep mongo
